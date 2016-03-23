@@ -1,7 +1,7 @@
 name: anthonyklein
 favicon: null
-layout_spectrum: 0.5877895657904446
-typography_spectrum: 0.8094453210942447
+layout_spectrum: 0.25275
+typography_spectrum: 0.45043
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.2384031186811626
-  lightness: 0.3594504336360842
-  saturation: 0.697299180785194
-  rhythmicContrast: 0.3483352898620069
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
