@@ -1,5 +1,8 @@
+name: Anthony
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0
 title: Anthony
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
-  brandColors:
-    - '#1d1e1c'
-    - '#ff7c6a'
-    - '#633b34'
-    - '#000000'
-    - '#111111'
-  rhythmicContrast: 0.5
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: Anthony
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0
-layout_spectrum: 1
+color:
+  brandColors:
+    - '#d9d8d6'
+    - '#afb2b9'
+    - '#2e414f'
+    - '#0f0a07'
+    - '#546a79'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
+purpose: []
