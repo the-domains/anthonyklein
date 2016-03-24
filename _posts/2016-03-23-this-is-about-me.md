@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is about me. I am a Creative Director at Klein & Sons. Blah blah blah'
-datePublished: '2016-03-24T16:52:02.392Z'
-dateModified: '2016-03-24T16:51:45.554Z'
+datePublished: '2016-03-24T16:58:00.433Z'
+dateModified: '2016-03-24T16:52:08.981Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-23-this-is-about-me.md
